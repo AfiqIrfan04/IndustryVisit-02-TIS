@@ -1,1 +1,15 @@
-# IndustryVisit-02-TIS
+## Assignment 4: Newsletter Industry Visit 1
+
+>  Technology and Information System (SECP1513-05)  
+> Session 2024/2025
+> Semester 1
+ 
+ Group members:
+ 1. ADAM SYAHMI BIN ABDULLAH (A24CS0219)
+ 2. MUHAMMAD AFIQ IRFAN BIN ZURAIMI (A24CS0122)
+ 3. MUHAMMAD AMIRUL AIMAN BIN ABDULLAH (A24CS0124)  
+ 4. MUHAMAD HAZIM  BIN ZULKANAIN (A24CS0136)
+ 5. PRAVEIN A/L LETCHUMANAN (A24CS0179)
+ 
+Click the text:
+[ **ASSIGNMENT 4 - NEWSLETTER INDUSTRY VISIT 2**] [ASSIGNMENT 4 NEWSLETTER.pdf](https://github.com/user-attachments/files/18635429/ASSIGNMENT.4.NEWSLETTER.pdf)
